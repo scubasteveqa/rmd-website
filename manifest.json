@@ -6,7 +6,7 @@
     "appmode": "rmd-static",
     "primary_rmd": "index.Rmd",
     "primary_html": null,
-    "content_category": null,
+    "content_category": "site",
     "has_parameters": false
   },
   "packages": {
@@ -734,10 +734,10 @@
       "checksum": "e2f1b743b13285896e3e0d4290b47cdc"
     },
     "_site/about.html": {
-      "checksum": "a3b49a6c5991a30e60c848eff9ba1c8a"
+      "checksum": "255063eaef29d21997c7040be03b8dbc"
     },
     "_site/index.html": {
-      "checksum": "82722bd67cef9b5b5d2289236238940a"
+      "checksum": "e22aae1057aa3affe49102739b5365a6"
     },
     "_site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css": {
       "checksum": "659231dde1c53bd14bbcffa1456df892"
@@ -926,10 +926,10 @@
       "checksum": "3838523138b4d71acb5ea1c5c45ecc00"
     },
     "about.Rmd": {
-      "checksum": "c4ae811ebb5c58c9fa5663b227809670"
+      "checksum": "581d68234c65489dbbb53283816f868b"
     },
     "index.Rmd": {
-      "checksum": "017e44025f78bff0c2b8b683e20db519"
+      "checksum": "2113f1ce1886f7af9d72f69d5808c94e"
     }
   },
   "users": null
